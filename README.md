@@ -125,5 +125,5 @@ If you find this project useful, please consider giving it a star ⭐ on GitHub!
 ---
 
 **Made with ❤️ for Father's Day**
-
-*This application is for educational and personal use only. Please ensure compliance with local regulations when using generated tickets.*
+ 
+*This application is for educational and personal use only. Please ensure compliance with local regulations when using generated tickets.* 
